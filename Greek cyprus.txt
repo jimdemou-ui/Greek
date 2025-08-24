@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ERT1.gr" tvg-name="ERT1" group-title="Greece",ERT 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERT2.gr" tvg-name="ERT2" group-title="Greece",ERT 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ERT3.gr" tvg-name="ERT3" group-title="Greece",ERT 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mega.gr" tvg-name="Mega" group-title="Greece",Mega Channel
+https://cflive-emea.live-delivery.ooyala.com/permalink/cflive/0fN3czZDE6E1DLFqFPI2Xarqvc8N/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-name="ANT1" group-title="Greece",ANT1
+https://antenna-mmp1.antenna.gr/antenna/stream/antenna/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alpha.gr" tvg-name="Alpha" group-title="Greece",Alpha
+https://alphalive.siliconweb.com/alpha/alpha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Skai.gr" tvg-name="Skai" group-title="Greece",Skai
+https://skai-live.siliconweb.com/skai/skai/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Star.gr" tvg-name="Star" group-title="Greece",Star Channel
+https://star-live.siliconweb.com/star/star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Open.gr" tvg-name="Open" group-title="Greece",Open TV
+https://opentvlive.siliconweb.com/open/opentv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Action24.gr" tvg-name="Action24" group-title="Local",Action 24
+https://action24-live.siliconweb.com/action24/action24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Kontra.gr" tvg-name="Kontra" group-title="Local",Kontra Channel
+https://kontralive.siliconweb.com/kontra/kontra/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BlueSky.gr" tvg-name="BlueSky" group-title="Local",Blue Sky
+https://bluesky-live.siliconweb.com/bluesky/bluesky/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Attica.gr" tvg-name="AtticaTV" group-title="Local",Attica TV
+https://atticalive.siliconweb.com/attica/attica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIK1.cy" tvg-name="RIK1" group-title="Cyprus",RIK 1
+https://cybc.akamaized.net/hls/live/2026871/ctv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIK2.cy" tvg-name="RIK2" group-title="Cyprus",RIK 2
+https://cybc.akamaized.net/hls/live/2026872/ctv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sigma.cy" tvg-name="Sigma" group-title="Cyprus",Sigma TV
+https://sigmalive2.siliconweb.com/sigma/sigma/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlphaCyprus.cy" tvg-name="AlphaCyprus" group-title="Cyprus",Alpha Κύπρου
+https://alphacyprus.siliconweb.com/alphacyprus/alphacyprus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Omega.cy" tvg-name="Omega" group-title="Cyprus",Omega TV
+https://omegatv.siliconweb.com/omega/omega/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Plus.cy" tvg-name="PlusTV" group-title="Cyprus",Plus TV
+https://plustv.siliconweb.com/plustv/plustv/playlist.m3u8
